@@ -1747,6 +1747,6 @@
   "Skybox (For custom skyboxes, replace with empty, then override default skybox)": {
     "Skybox Up": 91458002,
     "Skybox Sides": 91458024,
-    "Skybox Down": 91457980,
+    "Skybox Down": 91457980
   }
 }
