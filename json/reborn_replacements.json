@@ -1,0 +1,40 @@
+{
+    "Replacements" : {
+        "Speedlines" :{
+          "Pink": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_pink.png",
+          "Purple": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_purple.png",
+          "Light Blue": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_lightBlue.png",
+          "Black": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_black.png",
+          "Red": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_red.png",
+          "Pride": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_pride.png",
+          "Bi": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_bi.png",
+          "Trans": "https://raw.githubusercontent.com/Rattticus/reborn-dump/refs/heads/main/assets/wind_slice_trans.png"
+        },
+        "Skyboxes" : {
+            "Realistic Cloudy" : {
+                "Back": 11832250366,
+                "Down": 11832250656,
+                "Front": 11832250915,
+                "Left": 11832250090,
+                "Right": 11832249798,
+                "Up": 11832257515
+            },
+            "Classic (2009-2012)" : {
+                "Back": 17507971139,
+                "Down": 17507972181,
+                "Front": 17507973555,
+                "Left": 17507974218,
+                "Right": 17507974710,
+                "Up": 17507975231
+            },
+            "Purple Cloudy" : {
+                "Back": 17279854976,
+                "Down": 17279856318,
+                "Front": 17279858447,
+                "Left": 17279860360,
+                "Right": 17279862234,
+                "Up": 17279864507
+            }
+        }
+    }
+}
