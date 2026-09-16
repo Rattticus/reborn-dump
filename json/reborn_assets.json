@@ -1,7 +1,20 @@
 {
   "Sorted": {
     "Speed Lines": 2597342345,
-    "Magrail Sound": 13109095135
+    "Magrail Sound": 13109095135,
+    "Coverage Sound": 15239851842,
+    "Level Sound": 15106411758,
+    "Trial Restart Sounds": {
+      "Trial Reset": 13038377248,
+      "Shutter 1": 13038376505,
+      "Shutter 2": 13038376754,
+      "Shutter 3": 13038376638,
+      "Shutter 4": 13038376972,
+      "Shutter 5": 13038376850,
+      "Shutter 6": 13038377150,
+      "Shutter 7": 13038377072,
+      "Shutter 8": 13038377424
+    }
   },
   "Skybox (For custom skyboxes, replace all with empty, then override default skybox)": {
     "Skybox Up": 91458002,
