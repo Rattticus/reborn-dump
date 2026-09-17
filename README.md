@@ -26,6 +26,6 @@ Leave "Replace With" empty (1), and enable the profile (2)
 
 ### Step 3: Replacing Default Skybox
 
-Go to Modifications (3), and replace the skybox images with your desired skybox
+Go to Modifications (3), and replace the skybox images with your desired skybox from "Replacements" (see image 3), or from anywhere else
 
 ![Tutorial Image 4](https://github.com/Rattticus/reborn-dump/blob/main/tutorial-images/Screenshot%202026-09-16%20204837.png?raw=true)
